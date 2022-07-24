@@ -10,12 +10,13 @@
 I am a Zend Certified Engineer. Now I am working at Infolady Social Enterprise Limited as a Team Leader. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 ## ⛷️ Skills & Experiance:
+✅ HTML / CSS / Bootstrap <br/>
 ✅ JavaScript / TypeScript <br/>
 ✅ Vue Js / Nuxt 3 <br/>
 ✅ PHP <br/>
 ✅ Laravel Framework <br/>
 ✅ MySQL / PostgreSQL / MongoDB <br/>
-✅ HTML / CSS / Bootstrap <br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabub01)](https://github.com/anuraghazra/github-readme-stats)
 
