@@ -16,7 +16,10 @@ I am a Zend Certified Engineer. Now I am working at Infolady Social Enterprise L
 ✅ PHP <br/>
 ✅ Laravel Framework <br/>
 ✅ MySQL / PostgreSQL / MongoDB <br/>
-
+✅ Module based project Design and Development <br/>
+✅ Sass Architecture based Project design and Development <br/>
+✅ Work with Microservice Architecture <br/>
+✅ Work with Single page Application <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabub01)](https://github.com/anuraghazra/github-readme-stats)
 
