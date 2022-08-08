@@ -7,7 +7,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/mahabub01) 
 
-I am a Zend Certified Engineer. Now I am working at Infolady Social Enterprise Limited as a Team Leader. I have a passion for learning and sharing my knowledge with others as publicly as possible.
+I am a full-stack developer with 8 years of substantial hands-on experience in building scalable, maintainable, and robust cloud-based solutions to solve complex business problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind.
+
 
 ## ⛷️ Skills & Experiance:
 ✅ HTML / CSS / Bootstrap <br/>
